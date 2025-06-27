@@ -1,0 +1,32 @@
+# C source files
+sam1.c
+sam2.c
+sam3.c
+sam4.c
+sample_sw_c.c
+sample_sw_s.c
+sample_timec.c
+sample_times.c
+sample1.c
+sample2.c
+sample3.c
+sample4.c
+sample5.c
+sample6.c
+sample7.c
+sample8.c
+sample9.c
+sample10.c
+
+# Executable
+server
+
+# Other C files
+st_c.c
+st_s.c
+stop_wait_c.c
+stop_wait_s.c
+sw_c.c
+sw_s.c
+sr_c.c 
+sr_s.c 
